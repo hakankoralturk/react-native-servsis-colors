@@ -1,4 +1,5 @@
 export const Colors = {
+    /* Main Colors */ 
     header: '#2B1E34',
     darkWhiteText: '#BFAACB',
     background: '#4C2446',
